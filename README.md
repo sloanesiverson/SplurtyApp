@@ -1,24 +1,17 @@
-# README
+# Splurty
+Splurty is a quote generator which allows for user-submitted quotes to be displayed at random.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+[View The Deployed Application Here](https://splurty-sloane-siverson.herokuapp.com/)
 
-* Ruby version
+## Features:
+* Built using Ruby on Rails
+* Twitter Bootstrap3 for CSS and components
+* PostgreSQL database
+* Modal used for quote submissions
+* Validation for form inputs
+* Simple Form gem for form generation
+* Quotes load randomly upon page refresh
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Screenshot:
+![](/app/assets/images/splurty.png)
